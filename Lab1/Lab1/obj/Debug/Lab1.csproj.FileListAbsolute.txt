@@ -1,0 +1,27 @@
+D:\All\C# проги\ООТиСП\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\All\C# проги\ООТиСП\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\All\C# проги\ООТиСП\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\All\C# проги\ООТиСП\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\All\Лабы\OOTPiSP\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+d:\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+d:\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+d:\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+d:\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache

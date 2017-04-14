@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab1.CircleFam" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\CircleFam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Ellipse" Collapsed="true">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Hexagon" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAEBAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Hexagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Line" Collapsed="true">
+    <Position X="11.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAEBAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.LineFam" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\LineFam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.MainPoint" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAACEBAAABAgAAAAAAAAAAAAAAAAAAAAAABg=</HashCode>
+      <FileName>Classes\MainPoint.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab1.Pentagon" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAABAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Pentagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Rectangle" Collapsed="true">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.ShapeController" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAABAAAAAAAAAAgAAAgAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ShapeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Star" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Triangle" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAABAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Form1" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAoQFEAAACABghCAhQCAhUACpQAAAYBqAGQKAAGALUI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.EllipsePainter" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\EllipsePainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.HexagonPainter" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\HexagonPainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.LinePainter" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\LinePainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.PainterCircleFamily" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAEACIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\PainterCircleFamily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.PainterLineFamily" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQAQAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\PainterLineFamily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.PentagonPainter" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\PentagonPainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.RectanglePainter" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\RectanglePainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.ShapePainter" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAEICAAAAAAAAABAAgAAAgAAAAAAAAAIAAAAAAAAEA=</HashCode>
+      <FileName>Draw Methods\ShapePainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.StarPainter" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\StarPainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Draw_Methods.TrianglePainter" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Draw Methods\TrianglePainter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Properties.Resources" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1.Properties.Settings" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
